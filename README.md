@@ -2,8 +2,6 @@
 
 # cool-react-hooks [![Cool](https://awesome.re/badge.svg)](https://awesome.re)
 
-Cool React Hooks Resources
-
 ## Documentation
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
