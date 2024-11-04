@@ -1,6 +1,8 @@
 # Cool-React-Hooks
 
 # cool-react-hooks [![Cool](https://awesome.re/badge.svg)](https://awesome.re)
+### Show your support
+Give a ⭐ if you like these projects!
 
 ## Documentation
 
